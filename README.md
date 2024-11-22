@@ -1,0 +1,1 @@
+# Handwritten_detection_model
